@@ -1,9 +1,9 @@
 package CardGame;
 
 /**
- * Name:
- * Date:
- * Period:
+ * Name: Hubert Lotilla
+ * Date: 10/25/18
+ * Period: 1
  *
  * CardGame.DeckOfCards.java
  *
@@ -49,7 +49,7 @@ public class DeckOfCards {
             deck[ first ] = deck[ second ];
             deck[ second ] = temp;
         }
-    } // end method shuffle
+    } // end shuffle method
 
     /**
      * Deals one card

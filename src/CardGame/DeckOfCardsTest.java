@@ -1,9 +1,9 @@
 package CardGame;
 
 /**
- * Name:
- * Date:
- * Period:
+ * Name: Hubert Lotilla
+ * Date: 10/24/18
+ * Period: 1
  *
  * CardGame.DeckOfCardsTest.java
  *
@@ -20,6 +20,8 @@ public class DeckOfCardsTest
         // -----------------------------------------------------------
         //  print all 52 Cards in the order in which they are dealt
         // -----------------------------------------------------------
+
+
         for (int i = 0; i < 13; i++)
         {
             // printf method is used for formatting output

@@ -1,9 +1,9 @@
 package CardGame;
 
 /**
- * Name:
- * Date:
- * Period:
+ * Name: Hubert Lotilla
+ * Date: 10/24/18
+ * Period: 1
  *
  * CardGame.Card.java
  *
@@ -33,4 +33,6 @@ public class Card
     public String getSuit() {
         return suit;
     }
+
+
 }
